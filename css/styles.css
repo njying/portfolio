@@ -303,6 +303,10 @@ nav.navbar.navbar-default {
     opacity: 1.0;
 }
 
+#web-maps a {
+    text-decoration: none;
+}
+
 #web-maps .glyphicon {
 	color: #a9a9a9;
 	font-size: 25px;
